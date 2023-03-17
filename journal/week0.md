@@ -6,9 +6,9 @@
 I was able to install the AWS CLI on gitpod and my Windows machine, evidences are presented below:
 - Gitpod evidence: Please review my gitpod.yml file using [this link](https://github.com/khaaywai/aws-bootcamp-cruddur-2023/blob/5b80dc9f1eb6f183548ace515d591a792a412476/.gitpod.yml)
 - Windows Evidence
-  - Followed the instructions in ![AWS CLI Instructions](/assets/AWS CLI commands.png)
+  - Followed the instructions in ![AWS CLI Instructions]("/assets/AWS CLI commands.png")
   - Evidence of aws command working ![AWS STS GET-CALLER-IDENTITY](
-  - Evidence of aws --version command ![AWS VERSION)(/assets/Windows AWS CLI.png)
+  - Evidence of aws --version command ![AWS VERSION)("/assets/Windows AWS CLI.png")
   
 ### Create a Budget
 I created my budget and billing alarm using the GUI as I found it easier and more flexible. Evidence of the alarm is below:
