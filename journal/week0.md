@@ -17,11 +17,15 @@ I created my budget and billing alarm using the GUI as I found it easier and mor
 ### Recreate Logical/Conceptual Diagram
 I was able to successfully do this using Lucid
 ![Cruddur Logical Diagram](assets/Cruddur_Logical_Diagram.png)
+
 [Lucid share link for Logical and Conceptual Architecture](https://lucid.app/lucidchart/16491187-a6ab-41d7-b2d6-d748e4b27d42/edit?viewport_loc=-11%2C-61%2C3466%2C1749%2CErfG-OHlmvwR&invitationId=inv_7f320338-67be-4121-b599-4afb2c11fe7f)
 
 While building the chart, I faced a challenge, I couldn't find the momento logo in Lucid shapes. I resolved this by using an online converter to convert a screenshot of the logo to SVG format, and then import the svg file into Lucid.
 
 ## Homework Challenges
+
+### Napkin Diagram
+[Napkin Diagram](assets/Napkin_Design.png)
 
 ### Create Billing Alarm
 I was able to create a billing alarm using the CLI and [this alarm config here](https://github.com/khaaywai/aws-bootcamp-cruddur-2023/blob/main/aws/json/alarmconfig.json)
